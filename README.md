@@ -26,7 +26,7 @@ Esse é são os gráficos do node-red das histórias, como podemos ver, temos fu
 * 10 Cabos Jumper Macho x Fêmea
   
 ## Desenvolvimento
-O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esquema e para a codificação. O projeto será validado no dia 05/04/2023 pelo professor responsável.
+O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esquema e para a codificação. 
 
 ## Código Fonte
 [Link para o simulador](https://wokwi.com/projects/394103961130029057)
