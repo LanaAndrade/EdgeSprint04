@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 [Link para o simulador](https://wokwi.com/projects/394103961130029057)
 
 ### Vídeo do Projeto
-<a href=""><img src="https://github.com/LanaAndrade/hpQuadrinhos-Challenge-Edge/assets/82892986/579d5fd4-ed9a-42c0-8425-95d2d0c58835" alt="Whats-App-Image-2023-10-30-at-19-44-49" border="0"></a>
+<a href="https://www.youtube.com/watch?v=48p4pho06I4"><img width="960" alt="image" src="https://github.com/LanaAndrade/EdgeSprint04/assets/82892986/434919ca-3c08-46f2-8142-5ee656920df0"></a>
 
 ## Desenvolvedores
 
