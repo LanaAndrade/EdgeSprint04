@@ -1,4 +1,4 @@
-# Edge Computing Challenge Sprint 4 - HP Quadrinhos
+# Edge Computing Challenge Sprint 4 - HP Quadrinhos - Alteração
 
 > Status: Developed
 
